@@ -1,12 +1,12 @@
 ## Developer|Go & Python
 
-Transitioning into software engineering from a background in mathamatics and economics (with doctoral work in economics).  I am currently focused on 
+Transitioning into software engineering from a background in mathematics and economics (with doctoral work in economics).  I am currently focused on 
 building a strong foundation in backend development and systems logic (with the occasional chess related side project).
 
 ## Current Interests & Explorations
  - **Object Lifecycles in Caching**: Experimenting with promotion-based systems - inspired by generational garbage collection - to manage data flow
  - **Interface Design**: Designing customizable rule sets for system-level logic to make designs flexible and more performant in changing circumstances
- - **Mathmatical Modeling**: Interested in the practical translation of mathematical models into programmatic systems.
+ - **Mathmetical Modeling**: Interested in the practical translation of mathematical models into programmatic systems.
 
 I am currently focused on mastering computer science fundamentals and building reliable services in Go and Python (or another language if the problem requires it).
 
