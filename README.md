@@ -1,4 +1,4 @@
-## Developer|Go & Python
+## Developer|Go & Python & (other languages too)
 
 Transitioning into software engineering from a background in mathematics and economics (with doctoral work in economics).  I am currently focused on 
 building a strong foundation in backend development and systems logic (with the occasional chess related side project).
@@ -15,6 +15,7 @@ I have a couple of ideas on the backburner - if you have any ideas related to an
  - **Ambulance Location Problem**: Version of the facility location problem - where can we place ambulences across a city to reduce response times?
  - **Chess Opening Suggestor**: Using engine evaluations as a constraint, how can we tailor an opening repetoire given style preferences?
  - **Bloomberg Terminal for Video Games**: Many multiplayer video games have built in markets - good practice for work on fintech systems while also thinking about the nuances that differentiate video game economies and real ones.
+ - **Terminal Sports Scores**: Terminal application to display updates for sporting events I am interested in as I work with CLI integration to allow me to fetch more detailed data from my working terminal.
 
 
 <!--
